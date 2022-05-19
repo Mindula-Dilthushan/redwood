@@ -30,7 +30,7 @@
     "test:watch": "yarn test --watch"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "7.16.7",
+    "@babel/runtime-corejs3": "7.17.9",
     "@prisma/client": "3.14.0",
     "core-js": "3.22.5",
     "cross-undici-fetch": "0.1.27",
@@ -45,8 +45,8 @@
     "uuid": "8.3.2"
   },
   "devDependencies": {
-    "@babel/cli": "7.16.7",
-    "@babel/core": "7.16.7",
+    "@babel/cli": "7.17.10",
+    "@babel/core": "7.17.12",
     "@clerk/clerk-sdk-node": "3.5.0",
     "@redwoodjs/auth": "1.4.1",
     "@types/aws-lambda": "8.10.97",

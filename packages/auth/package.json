@@ -22,14 +22,14 @@
     "test:watch": "yarn test --watch"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "7.16.7",
+    "@babel/runtime-corejs3": "7.17.9",
     "core-js": "3.22.5"
   },
   "devDependencies": {
     "@auth0/auth0-spa-js": "1.21.1",
     "@azure/msal-browser": "2.24.0",
-    "@babel/cli": "7.16.7",
-    "@babel/core": "7.16.7",
+    "@babel/cli": "7.17.10",
+    "@babel/core": "7.17.12",
     "@clerk/clerk-js": "3.11.0",
     "@clerk/clerk-sdk-node": "3.5.0",
     "@clerk/types": "2.13.0",
